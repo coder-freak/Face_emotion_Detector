@@ -17,3 +17,10 @@ In this project, we take into account different approaches like Eigenfaces, Prin
 ![Accuracy and Loss Graph Emotion Recognition](/Output_Images/CNN_emo_rec_graph.PNG)
 
 Note : For more details about the project please try to contact me(dhanush11balaji@gmail.com) and Abinaya(abinaya.nani2@gmail.com)!.
+
+## Creator ✨
+
+| <a href="https://coder-freak.github.io/dhanushb.github.io/" target="_blank">**Dhanush Balaji**</a> | 
+| :---: |
+| [![Dhanush](https://github.com/coder-freak.png?size=100)](https://coder-freak.github.io/dhanushb.github.io/)    | 
+| <a href="https://github.com/coder-freak" target="_blank">`github.com/coder-freak`</a> | 
